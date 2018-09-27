@@ -13,6 +13,7 @@ public class WiselyResponse {
     private String responseMessage;
 
     public WiselyResponse(String message) {
+        System.out.println("xxx");
     }
 
     public String getResponseMessage() {
